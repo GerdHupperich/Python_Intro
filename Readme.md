@@ -1,9 +1,7 @@
-# Python-Einführung in Pandas und JSON
+# Python-Einführung in pandas und JSON
 
 ## Hintergrund
-
-Einführung in Python-Pandas und JSON
+Einführung in Python-pandas und JSON
 
 ## Was haben wir getan?
-
-
+Erste Programmierung
